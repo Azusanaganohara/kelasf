@@ -1,0 +1,42 @@
+{
+  "name": "KelasF",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Azusa",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "chokidar": "^3.6.0",
+    "discord-api-types": "^0.37.1",
+    "discord.js": "^14.15.3",
+    "erela.js": "^2.4.0",
+    "erela.js-spotify": "^1.2.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.3",
+    "gpti": "^2.1.7",
+    "graphql-request": "^7.0.1",
+    "kbbi": "^0.0.4",
+    "kbbi.js": "^1.0.6",
+    "lavacord": "^2.1.4-v4",
+    "lavalink-client": "^2.2.0",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^7.3.1",
+    "mysql2": "^3.9.7",
+    "nhentai-api": "^3.4.3",
+    "os": "^0.1.2",
+    "pixiv-api-client": "^0.27.0",
+    "rss-parser": "^3.13.0",
+    "sharp": "^0.33.4",
+    "translate-google": "^1.5.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
